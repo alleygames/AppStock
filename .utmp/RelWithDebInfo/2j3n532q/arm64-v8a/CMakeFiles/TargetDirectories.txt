@@ -1,0 +1,5 @@
+/Users/vaibhav/UnityProjects/AppStock-Demo/.utmp/RelWithDebInfo/2j3n532q/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/vaibhav/UnityProjects/AppStock-Demo/.utmp/RelWithDebInfo/2j3n532q/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/vaibhav/UnityProjects/AppStock-Demo/.utmp/RelWithDebInfo/2j3n532q/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/vaibhav/UnityProjects/AppStock-Demo/.utmp/RelWithDebInfo/2j3n532q/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/vaibhav/UnityProjects/AppStock-Demo/.utmp/RelWithDebInfo/2j3n532q/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

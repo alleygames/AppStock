@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a3719234bd1460488cfa16b34cf1b2c, type: 3}
+  m_Name: NativeConfigPreset
+  m_EditorClassIdentifier: 
+  warnings:
+    warnings: []
+  adUnitData:
+    placementID: 16
+    endpointID: 
+    parameters:
+      assets:
+        allowEmpty: 1
+        titles:
+        - required: 0
+          length: 90
+        images:
+        - required: 1
+          imageType: 3
+          minSize: {x: 200, y: 50}
+          width:
+            enabled: 0
+            value: 0
+          height:
+            enabled: 0
+            value: 0
+          mimeTypes: []
+          ext:
+            mode: 0
+            value: {fileID: 0}
+            elements: []
+            customJsonString: 
+          imageExt:
+            mode: 0
+            value: {fileID: 0}
+            elements: []
+            customJsonString: 
+        - required: 1
+          imageType: 1
+          minSize: {x: 20, y: 20}
+          width:
+            enabled: 0
+            value: 0
+          height:
+            enabled: 0
+            value: 0
+          mimeTypes: []
+          ext:
+            mode: 0
+            value: {fileID: 0}
+            elements: []
+            customJsonString: 
+          imageExt:
+            mode: 0
+            value: {fileID: 0}
+            elements: []
+            customJsonString: 
+        data:
+        - required: 1
+          dataType: 2
+          length:
+            enabled: 0
+            value: 0
+          ext:
+            mode: 0
+            value: {fileID: 0}
+            elements: []
+            customJsonString: 
+          dataExt:
+            mode: 0
+            value: {fileID: 0}
+            elements: []
+            customJsonString: 
+        - required: 1
+          dataType: 12
+          length:
+            enabled: 0
+            value: 0
+          ext:
+            mode: 0
+            value: {fileID: 0}
+            elements: []
+            customJsonString: 
+          dataExt:
+            mode: 0
+            value: {fileID: 0}
+            elements: []
+            customJsonString: 
+        - required: 1
+          dataType: 1
+          length:
+            enabled: 0
+            value: 0
+          ext:
+            mode: 0
+            value: {fileID: 0}
+            elements: []
+            customJsonString: 
+          dataExt:
+            mode: 0
+            value: {fileID: 0}
+            elements: []
+            customJsonString: 
+        - required: 0
+          dataType: 11
+          length:
+            enabled: 0
+            value: 0
+          ext:
+            mode: 0
+            value: {fileID: 0}
+            elements: []
+            customJsonString: 
+          dataExt:
+            mode: 0
+            value: {fileID: 0}
+            elements: []
+            customJsonString: 
+      eventTrackers:
+        allowEmpty: 1
+        elements:
+        - eventType: 1
+          methods: 0100000002000000
+      contextType: 1
+      contextSubType: 0
+      placementType: 0
+      placementCount:
+        enabled: 0
+        value: 0
+      sequence:
+        enabled: 0
+        value: 0
+      assetUrlSupport: 0
+      dUrlSupport: 0
+      privacy: 0
+      ext:
+        mode: 0
+        value: {fileID: 0}
+        elements: []
+        customJsonString: 

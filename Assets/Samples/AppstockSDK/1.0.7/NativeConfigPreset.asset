@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a3719234bd1460488cfa16b34cf1b2c, type: 3}
+  m_Name: NativeConfigPreset
+  m_EditorClassIdentifier: 
+  warnings:
+    warnings:
+    - parameters.assets.allowEmpty -- empty assets array will not be sent.
+    - parameters.eventTrackers.allowEmpty -- empty trackers array will not be sent.
+  adUnitData:
+    placementID: 15
+    endpointID: 
+    parameters:
+      assets:
+        allowEmpty: 0
+        titles: []
+        images: []
+        data: []
+      eventTrackers:
+        allowEmpty: 0
+        elements: []
+      contextType: 0
+      contextSubType: 0
+      placementType: 0
+      placementCount:
+        enabled: 0
+        value: 0
+      sequence:
+        enabled: 0
+        value: 0
+      assetUrlSupport: 0
+      dUrlSupport: 0
+      privacy: 0
+      ext:
+        mode: 0
+        value: {fileID: 0}
+        elements: []
+        customJsonString: 

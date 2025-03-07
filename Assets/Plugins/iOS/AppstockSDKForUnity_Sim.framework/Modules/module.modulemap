@@ -1,0 +1,11 @@
+framework module AppstockSDKForUnity_Sim {
+  umbrella header "AppstockSDKForUnity_Sim.h"
+  export *
+
+  module * { export * }
+}
+
+module AppstockSDKForUnity_Sim.Swift {
+  header "AppstockSDKForUnity_Sim-Swift.h"
+  requires objc
+}

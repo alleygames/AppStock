@@ -1,0 +1,11 @@
+framework module AppstockSDKForUnity {
+  umbrella header "AppstockSDKForUnity.h"
+  export *
+
+  module * { export * }
+}
+
+module AppstockSDKForUnity.Swift {
+  header "AppstockSDKForUnity-Swift.h"
+  requires objc
+}

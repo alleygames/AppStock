@@ -1,0 +1,11 @@
+<dependencies>
+  <androidPackages>
+    <repositories>
+      <repository>https://public-sdk.al-ad.com/android/</repository>
+    </repositories>
+    <androidPackage spec="com.appstock:appstock-sdk:1.0.6" />
+  </androidPackages>
+  <iosPods>
+    <iosPod name="AppstockSDK" version="1.0.6" bitcodeEnabled="true" minTargetSdk="12.0" addToAllTargets="true" />
+  </iosPods>
+</dependencies>
